@@ -1,8 +1,8 @@
 # Search Algorithm
-Intelligent System Assignment/Project
+Intelligent Systems Assignment/Project
 
 So far has Uninformed Search Algorithms
 - Depth First Search
 - Breadth First Search
 
-Will do Informed 
+Will do Informed tomorrow
