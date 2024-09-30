@@ -1,0 +1,9 @@
+G:\My Drive\Y3\IntSystems\SearchAlgorithm\AliacSearchAlgo\bin\Debug\AliacSearchAlgo.exe
+G:\My Drive\Y3\IntSystems\SearchAlgorithm\AliacSearchAlgo\bin\Debug\AliacSearchAlgo.pdb
+G:\My Drive\Y3\IntSystems\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.AssemblyReference.cache
+G:\My Drive\Y3\IntSystems\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.Form1.resources
+G:\My Drive\Y3\IntSystems\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.Properties.Resources.resources
+G:\My Drive\Y3\IntSystems\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.GenerateResource.cache
+G:\My Drive\Y3\IntSystems\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.CoreCompileInputs.cache
+G:\My Drive\Y3\IntSystems\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.exe
+G:\My Drive\Y3\IntSystems\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.pdb
